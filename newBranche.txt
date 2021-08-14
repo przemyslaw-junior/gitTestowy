@@ -1,2 +1,6 @@
 tworzenie nowej gałęzi
+<<<<<<< HEAD
 zmiana na branchu master
+=======
+zmiana na branchu newPlik
+>>>>>>> newPlik
