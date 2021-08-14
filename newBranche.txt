@@ -1,1 +1,2 @@
 tworzenie nowej gałęzi
+zmiana na branchu newPlik
